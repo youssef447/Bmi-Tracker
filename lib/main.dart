@@ -9,7 +9,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'config/dependencies/injection.dart';
 import 'config/routes/routeGenerator.dart';
-import 'config/services/cach_helper.dart';
 import 'core/style/app_theme.dart';
 import 'view/home/home_screen.dart';
 import 'view/login/login_screen.dart';
@@ -44,7 +43,6 @@ void main() async {
   ]);
   configurationDependencies();
 
-  await CacheHelper.init();
 
   if (isLoggedIn()) {
     //token=checkToken;
