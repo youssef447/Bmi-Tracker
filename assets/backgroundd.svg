@@ -1,0 +1,43 @@
+<svg width="428.000000" height="926.000000" viewBox="0 0 428 926" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_6_dd" x="-296.859741" y="-41.247833" width="668.126953" height="793.688232" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="33.3333" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_1_8_dd" x="-20.666626" y="-177.000000" width="738.666687" height="883.148132" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="33.3333" result="effect_layerBlur_1"/>
+		</filter>
+		<clipPath id="clip1_5">
+			<rect id="log in" width="428.000000" height="926.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_1_17_0" x1="212.999969" y1="512.000000" x2="212.999969" y2="926.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF"/>
+		</linearGradient>
+	</defs>
+	<rect id="log in" width="428.000000" height="926.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip1_5)">
+		<g filter="url(#filter_1_6_dd)">
+			<ellipse id="Ellipse 1628" cx="37.203735" cy="355.596313" rx="234.063492" ry="296.844147" fill="#EA94D7" fill-opacity="1.000000"/>
+		</g>
+		<ellipse id="Ellipse 1628" cx="37.203735" cy="355.596313" rx="233.563492" ry="296.344147" stroke="#707070" stroke-opacity="0" stroke-width="1.000000"/>
+		<ellipse id="Ellipse 1629" cx="219.130249" cy="635.425903" rx="269.333344" ry="341.574066" fill="#FFDADA" fill-opacity="1.000000"/>
+		<ellipse id="Ellipse 1629" cx="219.130249" cy="635.425903" rx="268.833344" ry="341.074066" stroke="#707070" stroke-opacity="0" stroke-width="1.000000"/>
+		<g filter="url(#filter_1_8_dd)">
+			<ellipse id="Ellipse 1627" cx="348.666748" cy="264.574066" rx="269.333344" ry="341.574066" fill="#DDCDFF" fill-opacity="1.000000"/>
+		</g>
+		<ellipse id="Ellipse 1627" cx="348.666748" cy="264.574066" rx="268.833344" ry="341.074066" stroke="#707070" stroke-opacity="0" stroke-width="1.000000"/>
+		<rect id="Rectangle 34624640" x="-1.000000" y="512.000000" width="428.000000" height="414.000000" fill="url(#paint_linear_1_17_0)" fill-opacity="1.000000"/>
+		<rect id="Rectangle 34624640" x="-0.500000" y="512.500000" width="427.000000" height="413.000000" stroke="#707070" stroke-opacity="0" stroke-width="1.000000"/>
+		<rect id="Image" x="61.164062" y="337.000000" rx="8.000000" width="156.213058" height="156.213058" transform="rotate(21.4652 61.164062 337.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<rect id="Image" x="61.446411" y="337.648285" rx="8.000000" width="155.213058" height="155.213058" transform="rotate(21.4652 61.446411 337.648285)" stroke="#707070" stroke-opacity="0" stroke-width="1.000000"/>
+		<rect id="Video" x="159.626709" y="586.000000" rx="8.000000" width="194.000000" height="194.000000" transform="rotate(16.9711 159.626709 586.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<rect id="Video" x="159.958984" y="586.624146" rx="8.000000" width="193.000000" height="193.000000" transform="rotate(16.9711 159.958984 586.624146)" stroke="#707070" stroke-opacity="0" stroke-width="1.000000"/>
+	</g>
+</svg>
